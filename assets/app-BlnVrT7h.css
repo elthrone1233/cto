@@ -1449,7 +1449,7 @@
     }
 
     .bg-green-500\/10 {
-        background-color: #00c7581a
+        background-color: #ffffff1a
     }
 
     @supports (color:color-mix(in lab, red, red)) {
