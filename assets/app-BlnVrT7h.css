@@ -1234,7 +1234,7 @@
     }
 
     .border-green-500\/30 {
-        border-color: #00c7584d
+        border-color: #ffffff
     }
 
     @supports (color:color-mix(in lab, red, red)) {
