@@ -3352,9 +3352,9 @@
     --brand-gold: gold;
     --brand-gold-light: #fff2a8;
     --brand-gold-dark: #b8860b;
-    --brand-green: #00ff90;
-    --brand-green-light: #66ffbf;
-    --brand-green-dark: #00cc73;
+    --brand-green: #ffffff;
+    --brand-green-light: #ffffff;
+    --brand-green-dark: #ffffff;
     --primary: var(--brand-green);
     --color-primary: var(--brand-green);
     --color-primary-foreground: var(--primary-foreground);
