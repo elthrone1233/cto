@@ -3430,22 +3430,22 @@
 
 .casino-v2 .casino-panel {
     border-radius: var(--radius-lg);
-    background: linear-gradient(145deg, #00ff9014, #006a580f);
-    border: 1px solid #00ff9047;
-    box-shadow: inset 0 0 0 1px #66ffbf24, 0 12px 28px #00000059
+    background: linear-gradient(145deg, #b1b1b114, #c5c5c50f);
+    border: 1px solid #ffffff47;
+    box-shadow: inset 0 0 0 1px #b3b3b324, 0 12px 28px #00000059
 }
 
 .casino-v2 .casino-button {
     color: #e6f7ff;
-    background: linear-gradient(135deg, #00ff902e, #66ffbf24);
-    border: 1px solid #00ff9073;
+    background: linear-gradient(135deg, #b1b1b114, #c5c5c50f);
+    border: 1px solid #ffffff47;
     transition: box-shadow .15s, transform .15s, background .15s
 }
 
 .casino-v2 .casino-button:hover {
     color: var(--brand-green-light);
-    background: linear-gradient(135deg, #00ff903d, #66ffbf2e);
-    box-shadow: 0 0 10px #00ff9059, 0 0 24px #66ffbf33
+    background: linear-gradient(135deg, #b1b1b114, #c5c5c50f);
+    box-shadow: 0 0 10px #ffffff59, 0 0 24px #a8a8a833
 }
 
 .casino-v2 .random-bet-button {
