@@ -3464,10 +3464,10 @@
 .casino-v2 .random-bet-button:before {
     content: "";
     border-radius: inherit;
-    background: conic-gradient(from var(--rb-angle), #00ff9000 0deg, #00ff90a6 60deg, #ffd700b3 180deg, #66ffbf99 300deg, #00ff9000 360deg);
+    background: conic-gradient(from var(--rb-angle), #00ff9000 0deg, #ffffffa6 60deg, #ffd700b3 180deg, #ececec99 300deg, #00ff9000 360deg);
     padding: var(--rb-border);
     pointer-events: none;
-    filter: blur(.35px)drop-shadow(0 0 6px #00ff9059);
+    filter: blur(.35px)drop-shadow(0 0 6px #e6e6e659);
     opacity: .95;
     z-index: -1;
     animation: 2.4s linear infinite rb-rotate;
@@ -3515,15 +3515,15 @@
 }
 
 .casino-v2 .neon-green {
-    text-shadow: 0 0 6px #00ff6a80, 0 0 12px #00ff6a59, 0 0 20px #00ff6a40
+    text-shadow: 0 0 6px #ffffff80, 0 0 12px #ffffff59, 0 0 20px #ffffff40
 }
 
 .casino-v2 .neon-blue {
-    text-shadow: 0 0 6px #00ff90a6, 0 0 12px #00ff9066, 0 0 20px #66ffbf4d
+    text-shadow: 0 0 6px #ffffffa6, 0 0 12px #ffffff66, 0 0 20px #ffffff4d
 }
 
 .casino-v2 .neon-cyan {
-    text-shadow: 0 0 6px #66ffbf99, 0 0 12px #66ffbf61, 0 0 20px #66ffbf47
+    text-shadow: 0 0 6px #ffffff99, 0 0 12px #ffffff61, 0 0 20px #ffffff47
 }
 
 .marquee-track {
