@@ -3255,9 +3255,9 @@
     --brand-gold: #b8860b;
     --brand-gold-light: #daa520;
     --brand-gold-dark: #8b6914;
-    --brand-green: #00ff90;
-    --brand-green-light: #66ffbf;
-    --brand-green-dark: #00cc73;
+    --brand-green: #ffffff;
+    --brand-green-light: #ffffff;
+    --brand-green-dark: #ffffff;
     --metallic-gold: linear-gradient(180deg, var(--brand-gold-light)0%, var(--brand-gold)51%, var(--brand-gold-dark)100%);
     --metallic-gold-soft: linear-gradient(180deg, var(--brand-gold-light)0%, var(--brand-gold)100%);
     --sidebar: oklch(15% .03 240);
