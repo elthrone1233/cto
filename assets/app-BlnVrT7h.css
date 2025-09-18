@@ -3364,21 +3364,21 @@
     --color-ring: var(--brand-green-light);
     --border: oklch(100% 0 0/.2);
     --input: oklch(100% 0 0/.24);
-    --lw-1: #00ff90;
-    --lw-2: #00e684;
-    --lw-3: #00cc73;
-    --lw-4: #15b56b;
-    --lw-5: #66ffbf;
-    --lw-6: #a8ffd9;
-    --lw-7: #0f7a57;
-    --lw-8: #0a5a41;
+    --lw-1: #f0f0f0;
+    --lw-2: #d6d6d6;
+    --lw-3: #919191;
+    --lw-4: #aaaaaa;
+    --lw-5: #f3f3f3;
+    --lw-6: #ececec;
+    --lw-7: #c0c0c0;
+    --lw-8: #9b9b9b;
     --lw-ring: var(--brand-green);
     --lw-label-even: #eafff5;
     --lw-label-odd: #bfffe6;
-    --lw-dark: #05231a;
+    --lw-dark: #aaaaaa;
     --lw-label-on-bright: #060c0af2;
     --lw-label-on-dark: #fffffff0;
-    background: radial-gradient(1200px 600px at 20% -10%, #00ff901f, #0000 60%), radial-gradient(900px 450px at 110% 0, #66ffbf1a, #0000 50%), linear-gradient(#000103, #000205 60%, #000104)
+    background: radial-gradient(1200px 600px at 20% -10%, #ffffff1f, #0000 60%), radial-gradient(900px 450px at 110% 0, #ffffff1a, #0000 50%), linear-gradient(#000103, #000205 60%, #000104)
 }
 
 .casino-v2 ::selection {
