@@ -3743,8 +3743,8 @@
 }
 
 .glitch-text:before {
-    color: #00ffaae6;
-    filter: drop-shadow(0 0 4px #0fa6);
+    color: #ffffffe6;
+    filter: drop-shadow(0 0 4px rgba(255, 255, 255, 0.4));
     animation: 1.2s steps(2, end) infinite glitch-before;
     transform: translate(2px)
 }
@@ -3860,7 +3860,7 @@
     opacity: .55;
     pointer-events: none;
     mix-blend-mode: soft-light;
-    background: repeating-linear-gradient(#00ffaa0d 0, #00ffaa0d 2px, #0000 2px, #0000 4px);
+    background: repeating-linear-gradient(#ffffff0d 0, #ffffff0d 2px, #0000 2px, #0000 4px);
     position: absolute;
     top: -24px;
     right: -24px;
