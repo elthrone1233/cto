@@ -3612,73 +3612,73 @@
 }
 
 .casino-v2.retro-00s .casino-panel {
-    background: repeating-linear-gradient(135deg, #00ff900a 0, #00ff900a 2px, #0000 2px, #0000 4px), linear-gradient(145deg, #00ff9014, #006a580f);
-    border: 1.5px dotted #00ff9073;
-    box-shadow: inset 0 0 0 1px #66ffbf2e, 0 10px 24px #00000059
+    background: repeating-linear-gradient(135deg, #ffffff0a 0, #ffffff0a 2px, #0000 2px, #0000 4px), linear-gradient(145deg, #ffffff14, #006a580f);
+    border: 1.5px dotted #ffffff73;
+    box-shadow: inset 0 0 0 1px #ffffff2e, 0 10px 24px #00000059
 }
 
 .casino-v2.retro-00s .retro-heading {
     text-transform: uppercase;
-    border-bottom: 1px dotted #00ff9073;
+    border-bottom: 1px dotted #ffffff73;
     padding-bottom: 2px;
     font-family: Trebuchet MS, Tahoma, Verdana, sans-serif
 }
 
 .casino-v2.retro-00s .retro-card {
-    background: repeating-linear-gradient(90deg, #00ff9009 0, #00ff9009 2px, #0000 2px, #0000 6px), linear-gradient(#00081099, #0008104d);
-    border: 1px dotted #00ff908c;
+    background: repeating-linear-gradient(90deg, #ffffff09 0, #ffffff09 2px, #0000 2px, #0000 6px), linear-gradient(#00081099, #0008104d);
+    border: 1px dotted #ffffff8c;
     border-radius: 6px;
     transition: transform .12s, box-shadow .12s, border-color .12s;
-    box-shadow: inset 0 1px #ffffff0f, 0 2px #ffffff0a, 0 0 12px #00ff901f
+    box-shadow: inset 0 1px #ffffff0f, 0 2px #ffffff0a, 0 0 12px #ffffff1f
 }
 
 .casino-v2.retro-00s .retro-card:hover {
-    border-color: #00ff90cc;
+    border-color: #ffffffcc;
     transform: translateY(-1px);
-    box-shadow: 0 0 10px #00ff9059, 0 0 20px #66ffbf33, inset 0 1px #ffffff14
+    box-shadow: 0 0 10px #ffffff59, 0 0 20px #ffffff33, inset 0 1px #ffffff14
 }
 
 .casino-v2.retro-00s .retro-input,
 .casino-v2.retro-00s .retro-select {
     color: var(--brand-green-light);
     background: linear-gradient(#000a14cc, #000a1499);
-    border: 1px dotted #00ff908c;
+    border: 1px dotted #ffffff8c;
     box-shadow: inset 0 1px #ffffff0f
 }
 
 .casino-v2.retro-00s .retro-input::placeholder {
-    color: #66ffbf80
+    color: #ffffff80
 }
 
 .casino-v2.retro-00s .retro-input:focus,
 .casino-v2.retro-00s .retro-select:focus {
-    border-color: #00ff90d9;
+    border-color: #ffffffd9;
     outline: none;
-    box-shadow: 0 0 0 2px #00ff9040, inset 0 1px #ffffff14
+    box-shadow: 0 0 0 2px #ffffff40, inset 0 1px #ffffff14
 }
 
 .casino-v2.retro-00s .retro-button {
     color: #e6f7ff;
-    text-shadow: 0 0 6px #00ff90a6;
-    background: linear-gradient(#00ff9038, #00ff9029);
-    border: 1px dotted #00ff90a6
+    text-shadow: 0 0 6px #ffffffa6;
+    background: linear-gradient(#ffffff38, #ffffff29);
+    border: 1px dotted #ffffffa6
 }
 
 .casino-v2.retro-00s .retro-button:hover {
-    background: linear-gradient(#00ff9047, #00ff9033);
-    box-shadow: 0 0 12px #00ff9059
+    background: linear-gradient(#ffffff47, #ffffff33);
+    box-shadow: 0 0 12px #ffffff59
 }
 
 .casino-v2.retro-00s .retro-separator {
-    border-top: 1px dotted #00ff9059
+    border-top: 1px dotted #ffffff59
 }
 
 .casino-v2.retro-00s .greentext {
-    color: #789922
+    color: #ffffff
 }
 
 .casino-v2.retro-00s .retro-underline {
-    border-bottom: 2px dotted #00ff90d9;
+    border-bottom: 2px dotted #ffffffd9;
     align-items: center;
     padding-bottom: 2px;
     display: inline-flex
@@ -3686,31 +3686,31 @@
 
 .casino-v2.retro-00s .retro-card:hover .retro-underline {
     border-bottom-color: var(--brand-green-light);
-    box-shadow: 0 2px #66ffbf47
+    box-shadow: 0 2px #ffffff47
 }
 
 .casino-v2.retro-00s .retro-dialog {
-    background: repeating-linear-gradient(135deg, #00ff9009 0, #00ff9009 2px, #0000 2px, #0000 6px), linear-gradient(#000810d9, #00081099);
-    border: 1.5px dotted #00ff908c;
+    background: repeating-linear-gradient(135deg, #ffffff09 0, #ffffff09 2px, #0000 2px, #0000 6px), linear-gradient(#000810d9, #00081099);
+    border: 1.5px dotted #ffffff8c;
     overflow: hidden;
-    box-shadow: 0 0 14px #00ff9047, 0 12px 36px #0000008c
+    box-shadow: 0 0 14px #ffffff47, 0 12px 36px #0000008c
 }
 
 .casino-v2.retro-00s .retro-titlebar {
-    background: linear-gradient(90deg, #00ff900f, #00ff9000);
-    border-bottom: 1px dotted #00ff9073
+    background: linear-gradient(90deg, #ffffff0f, #ffffff00);
+    border-bottom: 1px dotted #ffffff73
 }
 
 .casino-v2.retro-00s .retro-section {
     background: linear-gradient(#000a1499, #000a1466);
-    border: 1px dotted #00ff9073;
+    border: 1px dotted #ffffff73;
     border-radius: 8px;
     padding: 12px
 }
 
 .casino-v2.retro-00s .retro-progress-track {
-    background: #00ff9014;
-    border: 1px dotted #00ff9073;
+    background: #ffffff14;
+    border: 1px dotted #ffffff73;
     border-radius: 9999px;
     width: 100%;
     height: 6px
@@ -3721,12 +3721,12 @@
     border-radius: 9999px;
     height: 4px;
     margin: 1px;
-    box-shadow: 0 0 10px #00ff9059
+    box-shadow: 0 0 10px #ffffff59
 }
 
 .glitch-text {
     letter-spacing: .08em;
-    text-shadow: 0 0 6px #00ffaa59, 0 0 18px #0fa3;
+    text-shadow: 0 0 6px #ffffff59, 0 0 18px rgba(255, 255, 255, 0.2);
     font-size: 28px;
     animation: 1.8s linear infinite glitch-shift;
     position: relative
