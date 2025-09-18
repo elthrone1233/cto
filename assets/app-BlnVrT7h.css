@@ -2442,7 +2442,7 @@
 
     @media (hover:hover) {
         .hover\:border-blue-400\/30:hover {
-            border-color: #54a2ff4d
+            border-color: #4444444d
         }
 
         @supports (color:color-mix(in lab, red, red)) {
@@ -2452,7 +2452,7 @@
         }
 
         .hover\:border-blue-500\/30:hover {
-            border-color: #3080ff4d
+            border-color: #3a3a3a4d
         }
 
         @supports (color:color-mix(in lab, red, red)) {
